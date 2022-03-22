@@ -198,7 +198,6 @@ h2 {
 }
 
 .switch:hover .slider,
-.switch input:checked + .slider,
 .switch input:focus + .slider {
     opacity: 0.5;
 }
