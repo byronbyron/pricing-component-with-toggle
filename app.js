@@ -6,7 +6,6 @@ toggle.addEventListener('change', handleToggle);
 
 function handleToggle(e) {
   if (e.target.checked) {
-    console.log(anually)
     anually.forEach(element => element.setAttribute('hidden', true));
     monthly.forEach(element => element.removeAttribute('hidden'));
   } else {
