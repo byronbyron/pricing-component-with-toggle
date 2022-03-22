@@ -210,6 +210,7 @@ h2 {
 .label {
     font-size: 0.9375rem;
     color: var(--light-grayish-blue);
+    cursor: pointer;
 }
 
 .attribution {
