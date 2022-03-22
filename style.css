@@ -78,7 +78,7 @@ h2 {
     letter-spacing: -0.03em;
 }
 
-.card-price span {
+.card-price small {
     font-size: 55%;
     margin-right: 0.625rem;
 }
